@@ -1,0 +1,2 @@
+zapnut server : npm run dev
+vypnut server : ctrl c
